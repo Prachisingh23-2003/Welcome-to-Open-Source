@@ -437,6 +437,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Rupesh Kumar Singh</b></sub>
                 </a>
             </td>
+             <td align="center">
+                <a href="https://github.com/Prachisingh23-2003">
+                    <img src="https://avatars.githubusercontent.com/u/173125444?v=4" width="100px;" alt="prachi"/>
+                    <br />
+                    <sub><b>Prachi Singh</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/KAPIL9027">
                     <img src="https://avatars.githubusercontent.com/u/76560065?s=400&v=4" width="100px;" alt="KAPIL9027"/>
